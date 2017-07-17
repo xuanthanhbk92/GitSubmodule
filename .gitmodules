@@ -1,0 +1,6 @@
+[submodule "wiringPi"]
+	path = wiringPi
+	url = https://github.com/hardkernel/wiringPi.git
+[submodule "zlog"]
+	path = zlog
+	url = https://github.com/HardySimpson/zlog.git
